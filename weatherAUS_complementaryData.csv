@@ -1,51 +1,51 @@
-location;lat;lng;lat_cartodb;lng_cartodb;region;climate_classes;coast;comments
-Adelaide;-34.9275;138.6000;-4150000;15430000;South Australia;Temperate;1;
-Albany;-35.0228;117.8814;-4165000;13125000;Western Australia;Temperate;1;
-Albury;-36.0806;146.9158;-4310000;16355000;Victoria;Temperate;0;150km des côtes
-AliceSprings;-23.7000;133.8667;-2715000;14905000;Northern Territory;Desert;0;
-BadgerysCreek;-33.88;150.75;-4015000;16780000;NEW South Wales;Temperate;1;Banlieu de Sydney
-Ballarat;-37.5608;143.8475;-4520000;16015000;Victoria;Temperate;0;75Km de Melbourne, 75km des cotes
-Bendigo;-36.7500;144.2667;-4405000;16060000;Victoria;Grassland;0;150Km de Melbourne
-Brisbane;-27.4678;153.0281;-3180000;17030000;Queensland;Subtropical;1;
-Cairns;-16.9200;145.7800;-1910000;16230000;Queensland;Tropical;1;
-Canberra;-35.2931;149.1269;-4200000;16600000;NEW South Wales;Temperate;0;100Km des côtes
-Cobar;-31.4800;145.88;-3700000;16235000;NEW South Wales;Grassland;0;
-CoffsHarbour;-30.3022;153.1189;-3540000;17045000;NEW South Wales;Subtropical;1;Entre Brisbane et Sydney
-Dartmoor;-37.93;141.26;-4570000;15725000;Victoria;Temperate;1;"2 Dartmoor : Aucun vu sur sur CARTODB mais situé par rapport à Mount Gambier (qui serait dans ce cas : 15725000,-4570000), l'autre serait au Nord de Perth (-3255000,12805000). Auvue du rainToday, il semblerait plus proche de Mount Gambier
+location;lat;lng;lat_cartodb;lng_cartodb;region;climate_classes;coast;Gestion_NA;Proche_Location;comments
+Adelaide;-34.9275;138.6000;-4150000;15430000;South Australia;Temperate;1;0;Nuriootpa;
+Albany;-35.0228;117.8814;-4165000;13125000;Western Australia;Temperate;1;1;;
+Albury;-36.0806;146.9158;-4310000;16355000;Victoria;Temperate;0;0;WaggaWagga;150km des côtes
+AliceSprings;-23.7000;133.8667;-2715000;14905000;Northern Territory;Desert;0;1;;
+BadgerysCreek;-33.88;150.75;-4015000;16780000;NEW South Wales;Temperate;1;0;Sydney;Banlieu de Sydney
+Ballarat;-37.5608;143.8475;-4520000;16015000;Victoria;Temperate;0;0;Melbourne;75Km de Melbourne, 75km des cotes
+Bendigo;-36.7500;144.2667;-4405000;16060000;Victoria;Grassland;0;0;Melbourne;150Km de Melbourne
+Brisbane;-27.4678;153.0281;-3180000;17030000;Queensland;Subtropical;1;1;;
+Cairns;-16.9200;145.7800;-1910000;16230000;Queensland;Tropical;1;1;;
+Canberra;-35.2931;149.1269;-4200000;16600000;NEW South Wales;Temperate;0;1;;100Km des côtes
+Cobar;-31.4800;145.88;-3700000;16235000;NEW South Wales;Grassland;0;1;;
+CoffsHarbour;-30.3022;153.1189;-3540000;17045000;NEW South Wales;Subtropical;1;1;;Entre Brisbane et Sydney
+Dartmoor;-37.93;141.26;-4570000;15725000;Victoria;Temperate;1;0;Portland;"2 Dartmoor : Aucun vu sur sur CARTODB mais situé par rapport à Mount Gambier (qui serait dans ce cas : 15725000,-4570000), l'autre serait au Nord de Perth (-3255000,12805000). Auvue du rainToday, il semblerait plus proche de Mount Gambier
 20km des côtes"
-Darwin;-12.4381;130.8411;-1395000;14565000;Northern Territory;Tropical;1;
-GoldCoast;-28.0167;153.4000;-3250000;17075000;Queensland;Subtropical;1;
-Hobart;-42.8806;147.3250;-5295000;16400000;Tasmanie;Temperate;1;
-Katherine;-14.4667;132.2667;-1625000;14725000;Northern Territory;Tropical;0;300km des cotes
-Launceston;-41.4419;147.1450;16380000;-5075000;Tasmanie;Temperate;0;50km des cotes Nord et 75km des cotes Est
-Melbourne;-37.8136;144.9631;-4550000;16140000;Victoria;Temperate;1;
-MelbourneAirport;-37.685;144.85;-4535000;16125000;Victoria;Temperate;1;
-Mildura;-34.1889;142.1583;-4055000;15825000;Victoria;Grassland;0;200km d'adelaide et 400 de melbourne
-Moree;-29.4650;149.8344;-3430000;16690000;NEW South Wales;Subtropical;0;Pas vu sur CARTODB mais 3 villes proches Tamworth, 250 km des cotes
-MountGambier;-37.8294;140.7828;-4560000;15670000;South Australia;Temperate;1;25km des cotes
-MountGinini;-35.5;148.75;-4235000;16560000;NEW South Wales;Temperate;0;proche Canberra
-Newcastle;-32.9167;151.7500;-3885000;16890000;NEW South Wales;Temperate;1;
-Nhil;-36.3333;141.6500;-4350000;15775000;Victoria;Grassland;0;vu tout petit sur CARTODB mais proche Horsham (normalement nhill), 150km des cotes
-NorahHead;-33.283;151.568;-3935000;16870000;NEW South Wales;Temperate;1;au sud de new castle
-NorfolkIsland;-29.04;167.95;-3380000;18697500;NEW South Wales;Subtropical;1;pas sur que ca soit le bon endroit (-3640000, 17035000), Ile de Norfolk (-3380000, 18697500) : au vue de rainToday ca ne correspond pas au cœur de l'australie 
-Nuriootpa;-34.4667;138.9833;-4092500;15472500;South Australia;Grassland;0;banlieu d'Adelaide, 50km des cotes
-PearceRAAF;-31.665;116.06;-3720000;12920000;Western Australia;Subtropical;1;banlieu de Perth, 25km des cotes
-Penrith;-33.7511;150.6942;-3995000;16775000;NEW South Wales;Temperate;0;banlieu de Sydney, 40km des cotes
-Perth;-31.9522;115.8589;-3760000;12890000;Western Australia;Temperate;1;
-PerthAirport;-31.935;115.97;-3755000;12910000;Western Australia;Temperate;1;
-Portland;-38.3333;141.6000;-4630000;15765000;Victoria;Temperate;1;2 portland
-Richmond;-33.5983;150.7511;-3975000;16780000;NEW South Wales;Temperate;1;Richmond compliqué, quartier de Melbourne, en banlieu de Sydney (16780000,-3975000), banlieu de Hobart (16410000, -5275000). Après analyse des données et nottamment du rainToday, il semble bien que ca soit celui proche de Sydney et Penrith
-Sale;-38.1000;147.0667;-4580000;16370000;Victoria;Temperate;1;20km des cotes
-SalmonGums;-32.98;121.675;-3895000;13550000;Western Australia;Grassland;0;vu en tout petit sur CARTODB mais proche KALGOORLIE, 75km des cotes
-Sydney;-33.8650;151.2094;-4010000;16830000;NEW South Wales;Temperate;1;
-SydneyAirport;-33.935;151.186;-4020000;16830000;NEW South Wales;Temperate;1;dans Sydney
-Townsville;-19.2500;146.8167;-2190000;16345000;Queensland;Tropical;1;
-Tuggeranong;-35.41;149.12;-4220000;16600000;NEW South Wales;Temperate;0;banlieu de Canberra
-Uluru;-25.32;131.05;-2915000;14590000;Northern Territory;Desert;0;pas vu CARTODB mais situé grace à un grand lac et yulara
-WaggaWagga;-35.118;147.38;-4180000;16405000;NEW South Wales;Grassland;0;
-Walpole;-39.98;116.74;-4160000;12995000;Western Australia;Temperate;1;vu en tout petit
-Watsonia;-37.71;145.085;-4540000;16150000;Victoria;Temperate;1;quartier de Melbourne
-Williamtown;-32.81;151.85;-3870000;16905000;NEW South Wales;Temperate;1;banlieu de Newcastle = New Castle Airport
-Witchcliffe;-34.025;115.1;-4032500;12805000;Western Australia;Subtropical;1;moins de 10km de la cote
-Wollongong;-34.4331;150.8831;-4085000;16800000;NEW South Wales;Temperate;1;
-Woomera;-31.1496;136.8000;-3660000;15230000;South Australia;Desert;0;200km des cotes, mais plusieurs grands lacs à coté
+Darwin;-12.4381;130.8411;-1395000;14565000;Northern Territory;Tropical;1;1;;
+GoldCoast;-28.0167;153.4000;-3250000;17075000;Queensland;Subtropical;1;0;Brisbane;
+Hobart;-42.8806;147.3250;-5295000;16400000;Tasmanie;Temperate;1;1;;
+Katherine;-14.4667;132.2667;-1625000;14725000;Northern Territory;Tropical;0;0;Darwin;300km des cotes
+Launceston;-41.4419;147.1450;16380000;-5075000;Tasmanie;Temperate;0;0;Hobart;50km des cotes Nord et 75km des cotes Est
+Melbourne;-37.8136;144.9631;-4550000;16140000;Victoria;Temperate;1;1;;
+MelbourneAirport;-37.685;144.85;-4535000;16125000;Victoria;Temperate;1;1;;
+Mildura;-34.1889;142.1583;-4055000;15825000;Victoria;Grassland;0;1;;200km d'adelaide et 400 de melbourne
+Moree;-29.4650;149.8344;-3430000;16690000;NEW South Wales;Subtropical;0;1;;Pas vu sur CARTODB mais 3 villes proches Tamworth, 250 km des cotes
+MountGambier;-37.8294;140.7828;-4560000;15670000;South Australia;Temperate;1;1;;25km des cotes
+MountGinini;-35.5;148.75;-4235000;16560000;NEW South Wales;Temperate;0;0;Canberra;proche Canberra
+Newcastle;-32.9167;151.7500;-3885000;16890000;NEW South Wales;Temperate;1;0;Williamtown;
+Nhil;-36.3333;141.6500;-4350000;15775000;Victoria;Grassland;0;0;Melbourne;vu tout petit sur CARTODB mais proche Horsham (normalement nhill), 150km des cotes
+NorahHead;-33.283;151.568;-3935000;16870000;NEW South Wales;Temperate;1;0;Williamtown;au sud de new castle
+NorfolkIsland;-29.04;167.95;-3380000;18697500;NEW South Wales;Subtropical;1;1;;pas sur que ca soit le bon endroit (-3640000, 17035000), Ile de Norfolk (-3380000, 18697500) : au vue de rainToday ca ne correspond pas au cœur de l'australie 
+Nuriootpa;-34.4667;138.9833;-4092500;15472500;South Australia;Grassland;0;1;;banlieu d'Adelaide, 50km des cotes
+PearceRAAF;-31.665;116.06;-3720000;12920000;Western Australia;Subtropical;1;0;Perth;banlieu de Perth, 25km des cotes
+Penrith;-33.7511;150.6942;-3995000;16775000;NEW South Wales;Temperate;0;0;Sydney;banlieu de Sydney, 40km des cotes
+Perth;-31.9522;115.8589;-3760000;12890000;Western Australia;Temperate;1;1;;
+PerthAirport;-31.935;115.97;-3755000;12910000;Western Australia;Temperate;1;1;;
+Portland;-38.3333;141.6000;-4630000;15765000;Victoria;Temperate;1;1;;2 portland
+Richmond;-33.5983;150.7511;-3975000;16780000;NEW South Wales;Temperate;1;0;Sydney;Richmond compliqué, quartier de Melbourne, en banlieu de Sydney (16780000,-3975000), banlieu de Hobart (16410000, -5275000). Après analyse des données et nottamment du rainToday, il semble bien que ca soit celui proche de Sydney et Penrith
+Sale;-38.1000;147.0667;-4580000;16370000;Victoria;Temperate;1;1;;20km des cotes
+SalmonGums;-32.98;121.675;-3895000;13550000;Western Australia;Grassland;0;0;Albany;vu en tout petit sur CARTODB mais proche KALGOORLIE, 75km des cotes
+Sydney;-33.8650;151.2094;-4010000;16830000;NEW South Wales;Temperate;1;1;;
+SydneyAirport;-33.935;151.186;-4020000;16830000;NEW South Wales;Temperate;1;1;;dans Sydney
+Townsville;-19.2500;146.8167;-2190000;16345000;Queensland;Tropical;1;1;;
+Tuggeranong;-35.41;149.12;-4220000;16600000;NEW South Wales;Temperate;0;0;Canberra;banlieu de Canberra
+Uluru;-25.32;131.05;-2915000;14590000;Northern Territory;Desert;0;0;AliceSprings;pas vu CARTODB mais situé grace à un grand lac et yulara
+WaggaWagga;-35.118;147.38;-4180000;16405000;NEW South Wales;Grassland;0;1;;
+Walpole;-39.98;116.74;-4160000;12995000;Western Australia;Temperate;1;0;Albany;vu en tout petit
+Watsonia;-37.71;145.085;-4540000;16150000;Victoria;Temperate;1;1;;quartier de Melbourne
+Williamtown;-32.81;151.85;-3870000;16905000;NEW South Wales;Temperate;1;1;;banlieu de Newcastle = New Castle Airport
+Witchcliffe;-34.025;115.1;-4032500;12805000;Western Australia;Subtropical;1;0;Perth;moins de 10km de la cote
+Wollongong;-34.4331;150.8831;-4085000;16800000;NEW South Wales;Temperate;1;0;Sydney;
+Woomera;-31.1496;136.8000;-3660000;15230000;South Australia;Desert;0;1;;200km des cotes, mais plusieurs grands lacs à coté
