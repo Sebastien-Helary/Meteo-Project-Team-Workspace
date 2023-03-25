@@ -1,6 +1,6 @@
 location;lat;lng;lat_cartodb;lng_cartodb;region;climate_classes;coast;Gestion_NA;Proche_Location;comments
 Adelaide;-34.9275;138.6000;-4150000;15430000;South Australia;Temperate;1;0;Nuriootpa;
-Albany;-35.0228;117.8814;-4165000;13125000;Western Australia;Temperate;1;1;;
+Albany;-35.0228;117.8814;-4165000;13125000;Western Australia;Temperate;1;1;Walpole;
 Albury;-36.0806;146.9158;-4310000;16355000;Victoria;Temperate;0;0;WaggaWagga;150km des côtes
 AliceSprings;-23.7000;133.8667;-2715000;14905000;Northern Territory;Desert;0;1;;
 BadgerysCreek;-33.88;150.75;-4015000;16780000;NEW South Wales;Temperate;1;0;Sydney;Banlieu de Sydney
